@@ -1,6 +1,6 @@
 # CookieStealer
 ## Information
-A simple Cookie Stealer written in PHP. When a user is redirected to the server running the cookie stealer its current session cookie is saved to a logfile or mailed together with basic information about the redirected user. The PHP-program also contains an example of how detection of the website redirection can be avoided by using a simple bogus webpage suing the iamge "connectionError.png". Further explanation of how the php-program works can be seen as comments in "index.php".
+A simple Cookie Stealer written in PHP created to solve a wargame-challenge. When a user is redirected to the server running the cookie stealer its current session cookie is saved to a logfile or mailed together with basic information about the redirected user. The PHP-program also contains an example of how detection of the website redirection can be avoided by using a simple bogus webpage suing the iamge "connectionError.png". Further explanation of how the php-program works can be seen as comments in "index.php".
 
 ## Requirements
 The only requirement of this program is PHP. Can be installed using:
